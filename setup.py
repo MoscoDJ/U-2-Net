@@ -7,6 +7,7 @@ setup(
     install_requires=[
         'torch',
         'torchvision',
-        'Pillow'
+        'Pillow',
+        'numpy'
     ],
 )
