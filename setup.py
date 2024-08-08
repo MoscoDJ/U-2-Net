@@ -7,7 +7,9 @@ setup(
     install_requires=[
         'torch',
         'torchvision',
-        'Pillow',
-        'numpy'
+        'numpy',
+        'pillow',
+        'opencv-python',
+        'scikit-image'
     ],
 )
